@@ -54,3 +54,12 @@ echo 'copy below link and send to your victim
           echo " "
           figlet -f slant "Bye Bye"|lolcat
 fi 
+
+echo 
+echo
+
+if [ $pil = 0 ]
+then 
+clear
+exit
+fi
