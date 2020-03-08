@@ -1,1 +1,1 @@
-pkg install ruby figlet -y && gem install lolcat && cd && cd TheBug && mv .mk /data/data/com.termux/files/usr && mv .tk /data/data/com.termux/files/usr/bin && mv .tk bug && echo $'\033[36m'"Tyep"$'\033[31m'" bug"$'\033[36m'" to run tool" && cd && rm -rf TheBug  
+pkg install ruby figlet -y && gem install lolcat && cd && cd TheBug && mv .mk /data/data/com.termux/files/usr && mv .tk bug && mv bug /data/data/com.termux/files/usr/bin && echo $'\033[36m'"Tyep"$'\033[31m'" bug"$'\033[36m'" to run tool" && cd && rm -rf TheBug  
